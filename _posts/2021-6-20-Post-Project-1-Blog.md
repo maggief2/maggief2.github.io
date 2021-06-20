@@ -3,7 +3,8 @@ layout: post
 title: Post Project 1 Blog
 ---
 
-[Link to Project](https://maggief2.github.io/ST558Project1/)
+[GitHub Pages Link](https://maggief2.github.io/ST558Project1/)
+[Usual Repo Link](https://github.com/maggief2/ST558Project1)
 
 In this project, I created a vignette for the National Hockey League (NHL) Application Programming Interfaces (API). The first section contains functions that will pull the data from the endpoints of the API The second section focuses on an exploratory data analysis (EDA) of data pulled from a few of the endpoints. There were no particularly astounding findings, but I found it interesting that the defensemen of the Carolina Hurricanes had more points on average than the right wingers. This may be due to my limited knowledge on hockey and what the roles of each position are, but I was surprised that players whose position has defense in the name had many assists, which I think of as a more offense-oriented action. 
 
