@@ -4,6 +4,7 @@ title: Post Project 2 Blog
 ---
 
 [Link to github pages](https://maggief2.github.io/ST558Project2/)
+
 [Link to github repo](https://github.com/maggief2/ST558Project2)
 
 If I had to redo this project, there are not many things I would do differently. I made the repository, contacted my partner, and started working on the project early. After the initial interaction, my partner and I frequently communicated about our progress and provided feedback to one another. Since we began early, nothing felt particularly rushed and there was leeway for days with personal plans, such as the fourth of July. Some smaller changes that I would have liked to explore were the difference in “casual” and “registered” users instead of just the total number of bike rentals. I also think we could have written an if statement that would include the “workingday” variable in our step function if the day was not Saturday or Sunday. It did not appear to be a significant variable by itself, but I thought we should include it as a possible variable because we mentioned it in our data exploration. However, my partner preferred to remove the variable from the analysis.  
